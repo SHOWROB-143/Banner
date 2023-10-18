@@ -37,7 +37,7 @@ bash rvt.sh
 
 ## [+] Find Me on :
 
-[![Github](https://img.shields.io/badge/Facebook-SHOWRKB-CHOWDHURY-blue?style=for-the-badge&logo=facebook)](https://facebook.com/its.me.showrob.okh)
+[![Github](https://img.shields.io/badge/Facebook-SHOWROB_CHOWDHURY-blue?style=for-the-badge&logo=facebook)](https://facebook.com/its.me.showrob.okh)
 [![Github](https://img.shields.io/badge/WhatsApp-Mr_TOM-lightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=01923271418)
 [![Github](https://img.shields.io/badge/TELEGRAM-MR_TOM-orange?style=for-the-badge&logo=telegram)](https://t.me/Mr_Tom009)
 
