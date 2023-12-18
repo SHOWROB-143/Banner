@@ -6,7 +6,7 @@ clear
 mpv /$HOME/Banner/terminal[1].mp3
 clear
 echo -e "Created By \e[5mSHOWROB CHOWDHURY"
-echo "----------------------------" | lolcat
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" | lolcat
 
 echo "███    ███ ██████     ████████  ██████  ███    ███ 
 ████  ████ ██   ██       ██    ██    ██ ████  ████ 
